@@ -11,6 +11,9 @@
 - 9월에는 프로젝트 종료 이후 이므로, 좀 더 많은 양의 문제를 준비한다
 - `Java/Spring`에서 `Spring`은 프로젝트 스펙까지만 진행한다 
 
+### PR 가이드 
+- [PR 가이드 링크](https://github.com/kwYoohae/CS-Study/wiki/PR-%EA%B0%80%EC%9D%B4%EB%93%9C)
+
 ### 카테고리
 - 1주차 : 운영체제
 - 2주차 : 네트워크
