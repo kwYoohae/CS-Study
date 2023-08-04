@@ -19,6 +19,8 @@
 
 ## 진행 조
 ### 1주차
+- [1주차 링크](1주차/README.md)
+
 <table>
     <tr height="150px">
         <td align="center" width="130px">
