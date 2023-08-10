@@ -88,7 +88,7 @@
     - [x]  Paging 기법과 Segmentation 기법
     - [x]  내부 단편화와 외부 단편화
     - [x]  Thrashing
-- [ ]  Process와 Thread
+- [x]  Process와 Thread
 - [ ]  세마포어와 뮤텍스
 - [ ]  선점 스케줄링과 비선점 스케줄링
 - [ ]  IPC
