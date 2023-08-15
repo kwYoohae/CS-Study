@@ -17,7 +17,7 @@
 ## 📕TODO 리스트
 - [x] DNS의 정의와 DNS 레코드의 종류
 - [x] HTTP 3.0
-- [ ] HTTP Status Code의 종류와 400번대 500번대 코드의 차이
+- [x] HTTP Status Code의 종류와 400번대 500번대 코드의 차이
 - [ ] HTTP 메소드의 종류와 멱등성
 - [ ] 쿠키와 쿠키의 옵션
 - [ ] socket 동작 방식
