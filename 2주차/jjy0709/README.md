@@ -20,4 +20,4 @@
 - [x] HTTP Status Code의 종류와 400번대 500번대 코드의 차이
 - [x] HTTP 메소드의 종류와 멱등성
 - [x] 쿠키와 쿠키의 옵션
-- [ ] socket 동작 방식
+- [x] socket 동작 방식
