@@ -2,7 +2,7 @@
 - [x] TCP/IP의 4계층
 - [X] DNS 주소를 찾을 때 어떤 과정을 거치는지 
 - [X] 흐름제어 혼잡제어가 뭔지
-- [ ] HTTP/2에서의 Multiplexing이 뭐지 
+- [X] HTTP/2에서의 Multiplexing이 뭐지 
 
 
 ### 질문 사항 
