@@ -16,7 +16,7 @@
     - sliding window
 
 ## TODO
-- [ ] OSI 7계층
+- [x] OSI 7계층
 - [ ] IP
     - [ ] IPv4, IPv6
 - [ ] NAT
