@@ -14,3 +14,18 @@
 - 흐름 제어
     - stop and wait
     - sliding window
+
+## TODO
+- [ ] OSI 7계층
+- [ ] IP
+    - [ ] IPv4, IPv6
+- [ ] NAT
+- [ ] TCP
+    - [ ] UDP와의 비교
+    - [ ] 흐름제어, 혼잡 제어
+- [ ] 공격 기법
+    - [ ] 디도스
+    - [ ] 스니핑
+        - [ ] HTTP, HTTPS 차이점
+        - [ ] SSL/TLS
+    - [ ] CSRF
