@@ -17,9 +17,9 @@
 
 ## TODO
 - [x] OSI 7계층
-- [ ] IP
-    - [ ] IPv4, IPv6
-- [ ] NAT
+- [x] IP
+    - [x] IPv4, IPv6
+    - [x] NAT
 - [ ] TCP
     - [ ] UDP와의 비교
     - [ ] 흐름제어, 혼잡 제어
