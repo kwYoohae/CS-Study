@@ -23,9 +23,9 @@
 - [x] TCP
     - [x] UDP와의 비교
     - [x] 흐름제어, 혼잡 제어
-- [ ] 공격 기법
-    - [ ] 디도스
-    - [ ] 스니핑
-        - [ ] HTTP, HTTPS 차이점
-        - [ ] SSL/TLS
-    - [ ] CSRF
+- [x] 공격 기법
+    - [x] 디도스
+    - [x] 스니핑
+        - [x] HTTP, HTTPS 차이점
+        - [x] SSL/TLS
+    - [x] CSRF
