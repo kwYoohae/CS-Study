@@ -1,0 +1,31 @@
+## 질문 리스트
+- 네트워크 장비
+    - 라우터와 리피터
+    - 리피터와 허브
+- OSI 7계층
+    - 전송 계층
+    - 데이터 링크 계층
+- 패킷 교환 방식
+    - 가상 회선 방식
+    - 데이터그램 방식
+- TCP/IP
+    - TCP의 순서 제어, 흐름 제어
+    - TCP, IP의 패킷 교환 방식
+- 흐름 제어
+    - stop and wait
+    - sliding window
+
+## TODO
+- [x] OSI 7계층
+- [x] IP
+    - [x] IPv4, IPv6
+    - [x] NAT
+- [x] TCP
+    - [x] UDP와의 비교
+    - [x] 흐름제어, 혼잡 제어
+- [x] 공격 기법
+    - [x] 디도스
+    - [x] 스니핑
+        - [x] HTTP, HTTPS 차이점
+        - [x] SSL/TLS
+    - [x] CSRF
